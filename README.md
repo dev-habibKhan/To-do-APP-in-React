@@ -1,6 +1,6 @@
-# React + Vite
+# Todo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This app is useful in adding & deleting Your Daily Tasks.
 
 Currently, two official plugins are available:
 
